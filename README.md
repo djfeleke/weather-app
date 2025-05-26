@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather App
 
 A simple and modern web application that provides a 5-day weather forecast for any city using the [Open-Meteo Geocoding API](https://open-meteo.com/en/docs/geocoding-api) and [Open-Meteo Weather API](https://open-meteo.com/en/docs). The app is designed for clarity, accessibility, and ease of use.
@@ -195,3 +196,6 @@ Weather data is provided by [Open-Meteo](https://open-meteo.com/). Please review
 Pull requests and suggestions are welcome! Please open an issue to discuss changes or improvements.
 
 ---
+=======
+# weather-app
+>>>>>>> 177fc47a24a7bb38248d8d0496dfc03f40a79a1c
