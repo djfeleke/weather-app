@@ -18,8 +18,8 @@ A simple and modern web application that provides a 5-day weather forecast for a
 
 ## Screenshots
 
-![Weather App Screenshot](screenshot.png)  
-*Example: 5-day forecast for London with weather icons and temperature ranges.*
+![Weather App Screenshot](src/assets/images/demo.png)  
+*Example: 5-day forecast for Chantilly with weather icons and temperature ranges.*
 
 ---
 
