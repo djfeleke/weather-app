@@ -1,4 +1,3 @@
-# weather-app
 # Weather App
 
 A simple and modern web application that provides a 5-day weather forecast for any city using the [Open-Meteo Geocoding API](https://open-meteo.com/en/docs/geocoding-api) and [Open-Meteo Weather API](https://open-meteo.com/en/docs). The app is designed for clarity, accessibility, and ease of use.
@@ -47,7 +46,6 @@ weather-app/
 ├── src/
 │   ├── assets/
 │   │   └── images/
-│   │       └── weather-icons/
 │   ├── css/
 │   │   └── styles.css
 │   ├── js/
